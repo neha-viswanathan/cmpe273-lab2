@@ -1,3 +1,5 @@
 # cmpe273-lab2
 
-A simple “Hello World” REST API in Go using MUX handler. 
+get_post.go :: A simple “Hello World” REST API in Go using MUX handler. 
+
+httprouter.go :: A simple “Hello World” REST API in Go using httprouter.
